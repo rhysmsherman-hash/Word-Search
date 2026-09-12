@@ -1,0 +1,18 @@
+8 wide 7 high 
+jsolutis
+sunaruua
+neptunet
+sonieisu
+rcevtrer
+ahtraesn
+mmercury
+
+words:
+mercury
+venus
+earth
+mars
+jupiter
+saturn
+uranus
+neptune

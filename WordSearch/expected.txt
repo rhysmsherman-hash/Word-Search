@@ -1,0 +1,27 @@
+Original Grid:
+jsolutis
+sunaruua
+neptunet
+sonieisu
+rcevtrer
+ahtraesn
+mmercury
+
+Words Discovered:
+mercury found at (1, 6) to (7, 6)
+venus found at (3, 4) to (7, 0)
+earth found at (5, 5) to (1, 5)
+mars found at (0, 6) to (0, 3)
+jupiter found at (0, 0) to (6, 6)
+saturn found at (7, 0) to (7, 5)
+uranus found at (5, 1) to (0, 1)
+neptune found at (0, 2) to (6, 2)
+
+Found Words Capitalized:
+JsolutiS
+SUNARUUA
+NEPTUNET
+SonIEisU
+RceVTreR
+AHTRAEsN
+MMERCURY
