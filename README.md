@@ -29,4 +29,6 @@ Run the file using the command "./a.out" to create and executable.
 Run the example input using the command "./a.out <example_in.txt".
 ```
 
+## AI
+AI was used to formulate and utilize diagonal direction vectors in "solveWordSearch" function
 ## Program is free use
